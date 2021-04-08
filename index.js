@@ -1,6 +1,6 @@
 'use strict';
 
-export class WatchDebugWebpackPlugin {
+module.exports = class WatchDebugWebpackPlugin {
 	apply(compiler) {
 		compiler.hooks.watchRun.tap('WatchRun', comp => {
 			if(comp.modifiedFiled || comp.removedFiles) {
