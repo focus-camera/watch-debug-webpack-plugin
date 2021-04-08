@@ -1,0 +1,14 @@
+{
+  "name": "webpack-watch-debug-plugin",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Prints the modified files when webpack recompiles",
+  "author": "Michael Grinspan <mgrinspan@focuscamera.com> (https://github.com/mgrinspan)",
+  "main": "index.js",
+  "peerDependencies": {
+    "webpack": "^5.0.0"
+  },
+  "bugs": "https://github.com/focus-camera/webpack-watch-debug-plugin/issues",
+  "homepage": "https://github.com/focus-camera/webpack-watch-debug-plugin",
+  "repository": "https://github.com/focus-camera/webpack-watch-debug-plugin.git",
+}
