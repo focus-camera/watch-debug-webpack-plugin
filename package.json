@@ -1,5 +1,5 @@
 {
-  "name": "webpack-watch-debug-plugin",
+  "name": "watch-debug-webpack-plugin",
   "version": "0.0.1",
   "license": "MIT",
   "description": "Prints the modified files when webpack recompiles",
@@ -8,7 +8,7 @@
   "peerDependencies": {
     "webpack": "^5.0.0"
   },
-  "bugs": "https://github.com/focus-camera/webpack-watch-debug-plugin/issues",
-  "homepage": "https://github.com/focus-camera/webpack-watch-debug-plugin",
-  "repository": "https://github.com/focus-camera/webpack-watch-debug-plugin.git",
+  "bugs": "https://github.com/focus-camera/watch-debug-webpack-plugin/issues",
+  "homepage": "https://github.com/focus-camera/watch-debug-webpack-plugin",
+  "repository": "https://github.com/focus-camera/watch-debug-webpack-plugin.git",
 }
